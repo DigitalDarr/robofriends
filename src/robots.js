@@ -49,7 +49,7 @@ export const robots = [
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
+      name: 'Xiah Turtles',
       username: 'Delphine',
       email: 'Chaim_McDermott@dana.io'
     },
